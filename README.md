@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Eyad Omar an Egyptian Junior front end developer
+- 👀 I’m interested in Front End Web Development
+- 🌱 I’m currently practising HTML & CSS
+- 💞️ I’m looking to collaborate on a large scale website
